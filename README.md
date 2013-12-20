@@ -1,8 +1,10 @@
 #Simple and Secure PHP Login Script
-This script is built on the latest technologies:
+PHP Login is a script built on the latest technologies:
   - PHP Mailer 5.2.7
   - PHP 5.5.0 Hashing Algorithms
   - PHP mysqli connections
+  - HTML5
+  - CSS3
 
 ## Requirements
   - PHP +5.5.0
